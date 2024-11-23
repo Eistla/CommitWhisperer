@@ -52,7 +52,7 @@ dotnet run --project CommitWhisperer
 Run unit tests:
 dotnet test
 
-Why These Technologies?
+Why these technologies?
 - Octokit: Simplifies GitHub API integration.
 - EF Core + SQLite: Lightweight, no need for external database servers.
 - Dependency Injection: Ensures modularity and testability.
